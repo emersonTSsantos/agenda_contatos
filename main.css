@@ -9,6 +9,12 @@ body {
 h2 {
     font-size: 40px;
 }
+
+.img-logo-agenda{
+    padding: 10px;
+    width: 100px;
+}
+
 table {
     width: 80%;
     border-collapse: collapse;
